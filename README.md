@@ -1,8 +1,4 @@
-# Iris-Flower-Classification
-Task - Iris Flower Classification ( Artificial Intelligence Intern)
-
-
-# Task 1 - Iris Flower Classification
+# Task  - Iris Flower Classification
 
 ## Intern Information
 
